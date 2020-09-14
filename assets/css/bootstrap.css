@@ -4472,7 +4472,7 @@ select[multiple].input-group-sm>.input-group-btn>.btn {
 
 .navbar-fixed-top,
 .navbar-fixed-bottom {
-    /*
+    /* es esta
   position: fixed;
   */
     right: 0;
