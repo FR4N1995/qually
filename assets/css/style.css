@@ -166,7 +166,9 @@ blockquote {
 }
 
 .row {
+    /*
     margin-bottom: 40px;
+    */
 }
 
 .row .row,
